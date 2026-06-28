@@ -1,2 +1,3 @@
 # Starting_Github
-The first Git repositary
+The first Git repositary.
+Author - Rahul Rauniyar
